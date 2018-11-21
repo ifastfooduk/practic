@@ -1,0 +1,200 @@
+/*.container {
+	height: 688px;
+}*/
+
+header {
+
+	width: 100%;
+	height: 100%;
+	background-color: #f6f2f2;
+}
+
+a {
+text-decoration:none !important;
+}
+
+div.headerdisc{
+	margin-top: 51px;
+	padding-top: 50px;
+}
+h1 {
+	width: 588px;
+	height: 117px;
+	color: #000000;
+	font-size: 60px;
+	font-weight: 400;
+	line-height: 60px;
+	text-transform: uppercase;
+	letter-spacing: 1.5px;
+	letter-spacing: 6px;
+ }
+
+p.headerdisc {
+	width: 515px;
+	height: 73px;
+	opacity: 0.7;
+	color: #000000;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 28px;
+ }
+
+ button.contactus {
+	margin-top: 50px;
+	width: 227px;
+	height: 55px;
+	border-radius: 5px;
+	background-color: #ff2d2d;
+	text-height: 15px;
+	color: #ffffff;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 34.06px;
+	letter-spacing: 0.32px;
+ }
+
+video {
+	width: 551px;
+	height: 356px;
+	background-color: #000000;
+	opacity: 0.2;
+}
+
+div.maindisc {
+	margin-top: 50px;
+}
+
+h2 {
+	/* Style for "do you kno" */
+	width: 493px;
+	height: 87px;
+	opacity: 0.8;
+	color: #000000;
+	font-size: 42px;
+	font-weight: 700;
+	line-height: 55px;
+	text-transform: uppercase;
+	letter-spacing: 0.42px;
+}
+
+p.maindisc {
+	width: 515px;
+	height: 73px;
+	opacity: 0.7;
+	color: #000000;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 28px;
+	margin-top: 90px;
+	margin-bottom: 42px;
+ }
+
+div.rectangle{
+margin-top: 50px;
+width: 227px;
+height: 55px;
+border-radius: 5px;
+border: 2px solid #ff0000;
+}
+
+p.learnmore{
+width: 106px;
+height: 14px;
+color: #ff2d2d;
+font-size: 18px;
+font-weight: 700;
+line-height: 34.06px;
+/* Text style for "L, earn Mo" */
+letter-spacing: 0.32px;
+position: absolute;
+margin-top: 70px;
+margin:20px 60px;
+}
+
+img.settings{
+ /* Style for "Settings" */
+margin-top: 30px;
+width: 41px;
+height: 41px;
+background-color: #ff3b4a;
+background-image: linear-gradient(-225deg, #ffffff 0%, #ffffff 100%);
+}
+
+h4 {
+	width: 154px;
+	height: 24px;
+	opacity: 0.7;
+	color: #000000;
+	font-size: 24px;
+	font-weight: 400;
+	letter-spacing: 0.27px;
+}
+
+p.managimpsum {
+	width: 271px;
+	height: 101px;
+	opacity: 0.7;
+	color: #000000;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 28px;
+}
+
+img.pencil{
+	margin-top: 29px;
+}
+
+div.rectangle2{
+	margin-top: 108px;
+	width: 100%;
+	height: 2px;
+	background-color: #ececec;
+}
+
+h3 {
+	/* Style for "feature pr" */
+width: 600px;
+height: 32px;
+opacity: 0.8;
+color: #000000;
+font-size: 42px;
+font-weight: 700;
+text-transform: uppercase;
+letter-spacing: 0.38px;
+margin-left: 350px;
+margin-top: 106px;
+}
+
+p.fuiture {
+	width: 600px;
+	height: 45px;
+	opacity: 0.7;
+	color: #000000;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 28px;
+	margin-left: 265px;
+	margin-top: 34px;
+	text-align: center;
+}
+
+div.rectangle3 {
+	/* Style for "Rectangle" */
+width: 132px;
+height: 3px;
+background-color: #ff2d2d;
+margin-left: 500px;
+margin-top: 61px;
+}
+
+.col-xs-3 {
+	margin: 9px;
+}
+
+/*div.dtru {
+	margin-bottom: 400px;
+}*/
+
+ /* {
+ 	border: solid red 1px;
+ }
